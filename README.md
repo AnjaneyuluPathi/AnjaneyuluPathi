@@ -15,7 +15,7 @@
 **Salesforce.com Developer**
 
 ## Crtifications
-![Platform-App-Builder](https://user-images.githubusercontent.com/111300835/201587969-ac530b8a-1b09-4703-9892-5c53fb70d232.png = 250x )
+![Platform-App-Builder](https://user-images.githubusercontent.com/111300835/201587969-ac530b8a-1b09-4703-9892-5c53fb70d232.png {width=40px height=400px})
 
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnjaneyuluPath6)
