@@ -17,8 +17,7 @@
 ## Crtifications
 <div style="width: 10%; height: 10%">
   
-  ![Platform-App-Builder](https://user-images.githubusercontent.com/111300835/201587969-ac530b8a-1b09-4703-9892-5c53fb70d232.png)
-  ![Salesforce-Certified-Platform-Developer-1-Practice-Exams](https://user-images.githubusercontent.com/111300835/201588847-f2c8f845-bf6f-46e8-9965-99bafc49be7d.jpg)
+ ![1664700472619](https://user-images.githubusercontent.com/111300835/201589152-d86f0f48-2fda-4617-ad37-d221207ab04d.jpg)
 
   
 </div>
