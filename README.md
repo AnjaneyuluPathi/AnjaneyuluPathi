@@ -11,10 +11,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Salesforce.com Admin**
-**Salesforce.com Developer**
-
-## Crtifications
+## Certifications
 <div style="width: 10%; height: 10%">
   
  ![1664700472619](https://user-images.githubusercontent.com/111300835/201589152-d86f0f48-2fda-4617-ad37-d221207ab04d.jpg)
