@@ -5,7 +5,7 @@
 
 🎓 I graduated in 2021 from LBRCE, Vijayawada (B.Tech, ME) with a CGPA of 8.79 
 
-💞️ Interests: Listening songs, creating content.  ## Hello there 👋
+💞️ Interests: Listening songs, creating content
   
 ## Tech Stack 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
