@@ -4,7 +4,7 @@
 💻 I’m a Salesforce / Vlocity Developer having 3 Years of Experience includes Experience in Salesforce Sales cloud , Revenue cloud, Billing cloud.
 
 🎓 I graduated in 2021 from LBRCE, Vijayawada (B.Tech, ME) with a CGPA of 8.62
-4X Salesforce Certified 
+:blush: 4X Salesforce Certified 
                      1. Salesforce Platform Developer I
                      2. Salesforce Administrator
                      3. Salesforce Platform App Builder 
