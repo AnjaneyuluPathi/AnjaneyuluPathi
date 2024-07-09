@@ -20,7 +20,7 @@
 ## Certifications
 <div style="width: 10%; height: 10%">
   
- ![1664700472619](https://user-images.githubusercontent.com/111300835/201589152-d86f0f48-2fda-4617-ad37-d221207ab04d.jpg)
+ ![1709967987143](https://user-images.githubusercontent.com/111300835/201589152-d86f0f48-2fda-4617-ad37-d221207ab04d.jpg)
 
   
 </div>
